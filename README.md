@@ -92,7 +92,7 @@ or invoke the following from your terminal,
 * https://github.com/gree/unity-webview/issues/64
 * https://onevcat.zendesk.com/hc/en-us/articles/215527307-I-cannot-open-the-web-page-in-Unity-Editor-
 
-#### Separeted Mode
+#### Separated Mode
 
 A separate window will be shown if `separated: true` is specified:
 
